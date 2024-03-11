@@ -1,21 +1,20 @@
+import Header from "./componenets/Header.jsx";
+
 function App() {
 
   return (
       <>
-        <h1 className="text-3xl font-bold underline">
-          Hello world!
-        </h1>
+          <div className="w-[64rem] mt-20 px-4 mx-auto">
+              <Header />
+          </div>
+
       </>
   )
 }
 
 export default App
 
-//  Home
-//   New
-//   Popular
-//   Trending
-//   Categories
+
 //
 //   The Bright Future of Web 3.0?
 //

@@ -7,7 +7,7 @@ export default {
   theme: {
 
     fontFamily: {
-      'inter': ["Inter", "sans-serif"],
+      'p-inter': ["Inter", "sans-serif"],
     },
 
     extend: {
